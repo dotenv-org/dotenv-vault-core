@@ -29,7 +29,7 @@
     "settings"
   ],
   "readmeFilename": "README.md",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "engines": {
     "node": ">=12"
   }
