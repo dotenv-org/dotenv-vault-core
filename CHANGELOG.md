@@ -2,9 +2,9 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [Unreleased](https://github.com/dotenv-org/dotenv-vault/compare/v0.4.0...master)
+## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.4.0...master)
 
-## [0.4.0](https://github.com/dotenv-org/dotenv-vault/compare/v0.3.0...v0.4.0) (2022-10-23)
+## [0.4.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.3.0...v0.4.0) (2022-10-23)
 
 ### Changed
 
