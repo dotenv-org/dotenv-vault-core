@@ -139,7 +139,7 @@ Visit [health.dotenv.org](https://health.dotenv.org) for more information.
 
 #### What happens if `DOTENV_KEY` is not set?
 
-Dotenv Vault gracefully falls back to [dotenv](https://github.com/bkeepers/dotenv) when `DOTENV_KEY` is not set. This is the default for development so that you can focus on editing your `.env` file and save the `build` command until you are ready to deploy those environment variables changes.
+Dotenv Vault gracefully falls back to [dotenv](https://github.com/motdotla/dotenv) when `DOTENV_KEY` is not set. This is the default for development so that you can focus on editing your `.env` file and save the `build` command until you are ready to deploy those environment variables changes.
 
 #### Should I commit my `.env` file?
 
@@ -147,7 +147,11 @@ No. We **strongly** recommend against committing your `.env` file to version con
 
 #### Should I commit my `.env.vault` file?
 
-Yes. It is safe and recommended to do so. It contains your encrypted envs, and your vault identifier.
+Yes. It is safe and necessary to do so. It contains your encrypted envs, and your vault identifier.
+
+#### What happens if my `.env.vault` is missing?
+
+Dotenv Vault gracefully falls back to [dotenv](https://github.com/motdotla/dotenv) when `.env.vault` is missing. You will receive a warning that it is missing.
 
 #### Can I share the `DOTENV_KEY`?
 
