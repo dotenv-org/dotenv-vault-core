@@ -2,7 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.4.0...master)
+## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.5.0...master)
+
+## [0.5.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.4.0...v0.5.0) (2022-10-24)
+
+### Added
+
+- Added support for `DOTENV_KEY2`. Allow for rotating decryption keys without downtime. [#3](https://github.com/dotenv-org/dotenv-vault-core/pull/3)
 
 ## [0.4.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.3.0...v0.4.0) (2022-10-23)
 
