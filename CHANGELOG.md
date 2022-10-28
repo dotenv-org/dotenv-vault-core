@@ -2,7 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.5.0...master)
+## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.0...master)
+
+## [0.6.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.5.0...v0.6.0) (2022-10-27)
+
+### Added
+
+- Added comma separated capability to `DOTENV_KEY`. Add multiple keys to your DOTENV_KEY for use with decryption. Separate with a comma. [#4](https://github.com/dotenv-org/dotenv-vault-core/pull/4)
+
+### Removed
+
+- Removed `DOTENV_KEY2` [#4](https://github.com/dotenv-org/dotenv-vault-core/pull/4)
 
 ## [0.5.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.4.0...v0.5.0) (2022-10-24)
 
