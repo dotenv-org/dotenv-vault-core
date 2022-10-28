@@ -2,3 +2,8 @@ node_modules/
 .nyc_output
 
 .DS_Store
+
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
