@@ -12,7 +12,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### Removed
 
-- Removed `DOTENV_KEY3` [#4](https://github.com/dotenv-org/dotenv-vault-core/pull/4)
+- Removed `DOTENV_KEY2` [#4](https://github.com/dotenv-org/dotenv-vault-core/pull/4)
 
 ## [0.5.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.4.0...v0.5.0) (2022-10-24)
 
