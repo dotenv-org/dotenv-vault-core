@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" alt="dotenv-vault" align="right" width="200" />
 
-Dotenv Vault extends the proven & trusted foundation of [dotenv](https://github.com/motdotla/dotenv), with a `.env.vault` file.
+Extends the proven & trusted foundation of [dotenv](https://github.com/motdotla/dotenv), with a `.env.vault` file.
 
 The extended standard lets you sync your `.env` files – quickly & securely. Stop sharing them over insecure channels like Slack and email, and never lose an important `.env` file again.
 
