@@ -77,6 +77,14 @@ That's it!
 
 You just synced your `.env` file. Commit your `.env.vault` file to code, and tell your teammates to run `npx dotenv-vault pull`.
 
+### Custom Path (Monorepos)
+
+If you need to specify a custom path, for example in a monorepo, you can specify a `path` param in the `config()` call. 
+
+```
+require('dotenv-vault-core').config('apps/some-app/.env.vault')
+```
+
 ## Multiple Environments
 
 Run the command:
