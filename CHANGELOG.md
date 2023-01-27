@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 ## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.1...master)
 
+## [0.7.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.1...v0.7.0) (2023-01-27)
+
+### Added
+
+- Expose `decrypt` method ([#8](https://github.com/dotenv-org/dotenv-vault-core/pull/8))
+- Smart path lookup when .vault appended ([#6](https://github.com/dotenv-org/dotenv-vault-core/pull/6))
+
 ## [0.6.1](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.0...v0.6.1) (2022-10-28)
 
 ### Changed
