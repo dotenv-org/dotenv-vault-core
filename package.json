@@ -16,7 +16,7 @@
     "./package.json": "./package.json"
   },
   "scripts": {
-    "test": "tap tests/*.js --100 -Rspec"
+    "test": "tap tests/*.js --100 -Rspec --no-coverage"
   },
   "repository": {
     "type": "git",
