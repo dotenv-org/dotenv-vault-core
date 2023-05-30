@@ -1,3 +1,5 @@
+**THIS LIBRARY IS DEPRECATED. USE [dotenv >= 16.1.0](https://github.com/motdotla/dotenv) instead. It added first-class support for decrypting .env.vault files as of May 30, 2023.**
+
 # dotenv-vault-core [![NPM version](https://img.shields.io/npm/v/dotenv-vault-core.svg?style=flat-square)](https://www.npmjs.com/package/dotenv-vault-core)
 
 <img src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" alt="dotenv-vault" align="right" width="200" />
