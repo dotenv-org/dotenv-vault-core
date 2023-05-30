@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.1...master)
+## [Unreleased](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.7.1...master)
+
+## [0.7.1](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.7.0...v0.7.1) (2023-05-30)
+
+### Changed
+
+- Added deprecation notice
+- THIS LIBRARY IS DEPRECATED. USE `dotenv >= 16.1.0` instead. It added first-class support for decrypting `.env.vault` files as of May 30, 2023.
 
 ## [0.7.0](https://github.com/dotenv-org/dotenv-vault-core/compare/v0.6.1...v0.7.0) (2023-01-27)
 
