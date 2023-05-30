@@ -35,7 +35,7 @@ t.equal(
       'dotenv_config_path=./tests/.env'
     ]
   ),
-  'basic\n'
+  '[dotenv-vault-core@0.7.1][WARN] THIS LIBRARY IS DEPRECATED. USE dotenv >= 16.1.0 instead. It added first-class support for decrypting .env.vault files as of May 30, 2023.\nbasic\n'
 )
 
 // dotenv/config supports configuration via environment variables
@@ -53,7 +53,7 @@ t.equal(
       }
     }
   ),
-  'basic\n'
+  '[dotenv-vault-core@0.7.1][WARN] THIS LIBRARY IS DEPRECATED. USE dotenv >= 16.1.0 instead. It added first-class support for decrypting .env.vault files as of May 30, 2023.\nbasic\n'
 )
 
 // dotenv/config takes CLI configuration over environment variables
@@ -72,6 +72,6 @@ t.equal(
       }
     }
   ),
-  'basic\n'
+  '[dotenv-vault-core@0.7.1][WARN] THIS LIBRARY IS DEPRECATED. USE dotenv >= 16.1.0 instead. It added first-class support for decrypting .env.vault files as of May 30, 2023.\nbasic\n'
 )
 
